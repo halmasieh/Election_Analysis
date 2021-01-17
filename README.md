@@ -55,6 +55,9 @@ Knowing what we want to do and what our goal is supposed to be, is the most impo
 using important tools such as Python is the next step in achieving the result of the data analysis.
 
 In this challenge, the election results of three counties were examined, the percentage of the vote and the number of votes are shown as
-![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Winner.PNG) 
+
+![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/County_Votes.PNG)
+
+The winner of this election is Denver with the highest turnout.   
 
 
