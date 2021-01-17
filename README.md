@@ -8,7 +8,7 @@ The purpose of this project is to analyze the election results to achieve the fo
 - A complete list of candidates who recieved votes
 - Total number of votes each candidate received
 - Percentage of votes each candidate won
-- The winner of election based on popular vate
+- The winner of election based on popular vote
 
 ## Resources
 - Data Sources: election_results.csv
