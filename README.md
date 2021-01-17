@@ -36,6 +36,7 @@ by enlarging the loops of iteration, creating nested loops and using conditional
 The purpose of this challenge is to reinforce the Python programming insight by using VBA background. In fact, we performed a simulation for obtaining the winner county of what
 has been done before. We used Python as well as Visual studio code softwares for excecuting our script. 
 Python, while simple, is very practical and intuitive, thus it can be used as an effective computational tool for macro-analysis.
+
 Preliminary information is available in this election that is related to the list of candidates and their total votes along with 
 the winner of the election based on the highest percentage of the votes. In order to complete the rest of the information related to 
 this project, determining the share of participating of each county and selecting the winning county has a significient role in clarifying for the audiences. 
