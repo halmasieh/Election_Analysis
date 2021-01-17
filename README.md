@@ -11,7 +11,7 @@ determining the county with the highest turnout.
 
 ## Resources
 - Data Sources: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code
+- Software: [Python 3.7.6](https://www.python.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Summary
 The Analysis of the election shows that:
