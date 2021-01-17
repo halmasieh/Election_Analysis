@@ -34,7 +34,7 @@ The Analysis of the election shows that:
 
 ![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Winner.PNG) 
 
-5. The comprehensive analysis of these election can be extended to larger projects such as gatherings at national and international levels. 
+5. The comprehensive analysis of this election can be extended to larger projects such as gatherings at national and international levels. 
 by enlarging the loops of iteration, creating nested loops and using conditional statements on influential factors, wider analyzes will be possible.
 
 ## Challenge Overview
