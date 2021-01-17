@@ -3,11 +3,7 @@
 
 
 ## Project Overview
-Preliminary information is available in this election that is related to the list of candidates and their total votes along with 
-the winner of the election based on the highest percentage of the votes. In order to complete the rest of the information related to 
-this project, determining the share of participating of each county and selecting the winning county has a significient role in clarifying for the audiences. 
-Therefore, the purpose of this analysis audit is to calculate the voter turnout and the percentage of votes of each county in order to
-determining the county with the highest turnout.
+
 
 ## Resources
 - Data Sources: election_results.csv
@@ -39,7 +35,12 @@ by enlarging the loops of iteration, creating nested loops and using conditional
 ## Challenge Overview
 The purpose of this challenge is to reinforce the Python programming insight by using VBA background. In fact, we performed a simulation for obtaining the winner county of what
 has been done before. We used Python as well as Visual studio code softwares for excecuting our script. 
-Python, while simple, is very practical and intuitive, thus it can be used as an effective computational tool for macro-analysis.      
+Python, while simple, is very practical and intuitive, thus it can be used as an effective computational tool for macro-analysis.
+Preliminary information is available in this election that is related to the list of candidates and their total votes along with 
+the winner of the election based on the highest percentage of the votes. In order to complete the rest of the information related to 
+this project, determining the share of participating of each county and selecting the winning county has a significient role in clarifying for the audiences. 
+Therefore, the purpose of this analysis audit is to calculate the voter turnout and the percentage of votes of each county in order to
+determining the county with the highest turnout.
 
 ## Challenge Summary
 In fact, the presented challenge is an example of hundreds of samples that we encounter in the real world. Problem analysis in the form of a flowchart
