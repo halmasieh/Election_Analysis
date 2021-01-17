@@ -58,6 +58,6 @@ In this challenge, the election results of three counties were examined, the per
 
 ![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/County_Votes.PNG)
 
-The winner of this election is Denver with the highest turnout.   
+The winner of this election is Denver with the highest turnout 82.8%.   
 
 
