@@ -3,10 +3,10 @@
 
 
 ## Project Overview
-Preliminary information is available in this election that is related to the list of candiadtes and their total votes along with 
+Preliminary information is available in this election that is related to the list of candidates and their total votes along with 
 the winner of the election based on the highest percentage of the votes. In order to complete the rest of the information related to 
 this project, determining the share of participating of each county and selecting the winning county has a significient role in clarifying for the audiences. 
-Therefore, the purpose of this analysis audit is to calculate the voter turnout and the percentage of votes each county in order to
+Therefore, the purpose of this analysis audit is to calculate the voter turnout and the percentage of votes of each county in order to
 determining the county with the highest turnout.
 
 ## Resources
@@ -27,7 +27,10 @@ The Analysis of the election shows that:
    - Candidate #2 recieved 73.8% of the vote and 272,892 number of votes.
    - Candidate #3 recieved 3.1% of the vote and 11,606 number of votes.
    
-4. The winner of the election was Diana, who recieved 73.8% of the vote and 272,892 number of votes. 
+4. The winner of the election was Diana, who recieved 73.8% of the vote and 272,892 number of votes.
+
+5. The comprehensive analysis of these election can be extended to larger projects such as gatherings at national and international levels. 
+by enlarging the loops of iteration, creating nested loops and using conditional statements on influential factors, wider analyzes will be possible.
 
 ## Challenge Overview
 
