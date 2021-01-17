@@ -3,7 +3,11 @@
 
 
 ## Project Overview
-
+Preliminary information is available in this election that is related to the list of candiadtes and their total votes along with 
+the winner of the election based on the highest percentage of the votes. In order to complete the rest of the information related to 
+this project, determining the share of participating of each county and selecting the winning county has a significient role in clarifying for the audiences. 
+Therefore, the purpose of this analysis audit is to calculate the voter turnout and the percentage of votes each county in order to
+determining the county with the highest turnout.
 
 ## Resources
 - Data Sources: election_results.csv
