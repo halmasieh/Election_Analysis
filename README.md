@@ -33,8 +33,12 @@ The Analysis of the election shows that:
 by enlarging the loops of iteration, creating nested loops and using conditional statements on influential factors, wider analyzes will be possible.
 
 ## Challenge Overview
-
-
-
+The purpose of this challenge is to reinforce the Python programming insight by using VBA background. In fact, we performed a simulation for obtaining the winner county of what
+has been done before. We used Python as well as Visual studio code softwares for excecuting our script. 
+Python, while simple, is very practical and intuitive, thus it can be used as an effective computational tool for macro-analysis.      
 
 ## Challenge Summary
+In fact, the presented challenge is an example of hundreds of samples that we encounter in the real world. Problem analysis in the form of a flowchart
+and pseudo-code gives us an extensive information.
+Knowing what we want to do and what our goal is supposed to be, is the most important step in starting this analysis, and then advancing the problem in the direction of goal
+using important tools such as Python is the next step in achieving the result of the data analysis.
