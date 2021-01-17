@@ -26,9 +26,10 @@ The Analysis of the election shows that:
    - Candidate #1 recieved 23.0% of the vote and 85,213 number of votes.
    - Candidate #2 recieved 73.8% of the vote and 272,892 number of votes.
    - Candidate #3 recieved 3.1% of the vote and 11,606 number of votes.
+![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Winner.PNG) 
    
 4. The winner of the election was Diana, who recieved 73.8% of the vote and 272,892 number of votes. 
-![here](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Variables%20as%20Array.PNG) 
+![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Winner.PNG) 
 
 5. The comprehensive analysis of these election can be extended to larger projects such as gatherings at national and international levels. 
 by enlarging the loops of iteration, creating nested loops and using conditional statements on influential factors, wider analyzes will be possible.
