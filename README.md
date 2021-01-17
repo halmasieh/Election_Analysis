@@ -3,7 +3,12 @@
 
 
 ## Project Overview
-
+The purpose of this project is to analyze the election results to achieve the following goals:
+- Calculate the total number of votes cast
+- A complete list of candidates who recieved votes
+- Total number of votes each candidate received
+- Percentage of votes each candidate won
+- The winner of election based on popular vate
 
 ## Resources
 - Data Sources: election_results.csv
@@ -48,3 +53,8 @@ In fact, the presented challenge is an example of hundreds of samples that we en
 and pseudo-code gives us an extensive information.
 Knowing what we want to do and what our goal is supposed to be, is the most important step in starting this analysis, and then advancing the problem in the direction of goal
 using important tools such as Python is the next step in achieving the result of the data analysis.
+
+In this challenge, the election results of three counties were examined, the percentage of the vote and the number of votes are shown as
+![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Winner.PNG) 
+
+
